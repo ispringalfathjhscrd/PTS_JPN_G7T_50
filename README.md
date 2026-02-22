@@ -1,0 +1,2 @@
+# PTS_JPN_G7T_50
+PTS Genap JPN 2526
