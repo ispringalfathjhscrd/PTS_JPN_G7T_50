@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="AD77FE07-E903-4C3D-B25D-638E48797892" version="0">
+	<info>
+		<title>PTS JPN Grade 7T Semester 2 2526</title>
+		<description/>
+	</info>
+	<files index="id29" thumbnail="id25" totalSize="3591015">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/fonts/fnt6.woff</file>
+		<file id="id10">data/html5-unsupported.html</file>
+		<file id="id11">data/images/img-00ba9008510b385b2ea7c3dfb6887a9c1bd73757.jpg</file>
+		<file id="id12">data/images/img-13fd94e10b48666090b4f09bf865ff13a462c402.png</file>
+		<file id="id13">data/images/img-27a5b22ffc64a004b8d208ee45064e95d16e3329.jpg</file>
+		<file id="id14">data/images/img-3e4b245ce88b02ad1bd52a9f6250d2214958caaf.jpg</file>
+		<file id="id15">data/images/img-8465d3c791ff9bf5e4d8dc0f643d7c1c2cb06a18.jpg</file>
+		<file id="id16">data/images/img-909efd61a5c1b32679bc4a12594af9eb6d3e7c4e.jpg</file>
+		<file id="id17">data/images/img-a8659ad5e9b98919c144f3c733b6bb447c258e79.jpg</file>
+		<file id="id18">data/images/img-ac5c096b6af0adc69392a32909226d57d0caeae7.jpg</file>
+		<file id="id19">data/images/img-c25658d5e60800680d810b6a91f923301f7119fe.jpg</file>
+		<file id="id20">data/images/img-cc0f48b5eccdbd8bfed64af6d2a79f19e1c33cda.jpg</file>
+		<file id="id21">data/images/img-de70fd6f077036db4da9fc25c6a44a907b03cf94.jpg</file>
+		<file id="id22">data/images/img-fb405a0ca96c35b16eef93409f9078f98e4bfebb.jpg</file>
+		<file id="id23">data/ismplayer/app_store2x.png</file>
+		<file id="id24">data/ismplayer/play.svg</file>
+		<file id="id25">data/ismplayer/preview.png</file>
+		<file id="id26">data/ismplayer/style.css</file>
+		<file id="id27">data/ismplayer/style_mini.css</file>
+		<file id="id28">data/player.js</file>
+		<file id="id29">index.html</file>
+		<file id="id30">ismplayer.html</file>
+		<file id="id31">preview.png</file>
+	</files>
+</presentation>
+
